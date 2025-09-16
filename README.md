@@ -1,4 +1,4 @@
-# ShotCounter
+# Shot Counter
 
 Shot Counter is a custom Storyboard Pro tool that automatically counts and displays the number of shots in your file. Designed to save production teams time, it eliminates the need for manual counting and provides an instant overview of shot totals directly within the software. Quickly and easily copy the data and paste them to either Google Sheets or directly into Shotgrid.
 
